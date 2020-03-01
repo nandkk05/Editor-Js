@@ -1,0 +1,22 @@
+body {
+  background: #e7e7e7;
+  height: 100%;
+  padding: 3em;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+#codex-editor {
+  background: white;
+}
+
+button {
+  background: #00a2ff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  text-transform: uppercase;
+  padding: 1em;
+  margin-top: 2em;
+}
+
+/*# sourceMappingURL=/main.54166fbf.css.map */
